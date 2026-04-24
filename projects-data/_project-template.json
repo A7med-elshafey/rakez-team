@@ -1,0 +1,27 @@
+{
+  "id": "project-id",
+  "name": "اسم المشروع",
+  "category": { "key": "apartments", "label": "الشقق" },
+  "cover": "https://your-domain.com/path/to/cover.jpg",
+  "handoverDate": "2027-12",
+  "pdfs": {
+    "title": "ملفات PDF",
+    "items": []
+  },
+  "videos": {
+    "title": "الفيديوهات",
+    "items": []
+  },
+  "info": {
+    "title": "معلومات إضافية",
+    "items": []
+  },
+  "location": {
+    "title": "الموقع",
+    "items": []
+  },
+  "prices": {
+    "title": "الأسعار",
+    "items": []
+  }
+}

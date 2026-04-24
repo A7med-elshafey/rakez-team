@@ -1,0 +1,47 @@
+{
+  "id": "osous-eye",
+  "name": "عين اسس",
+  "category": { "key": "apartments", "label": "الشقق" },
+  "cover": "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Eye/cover/Cover.png",
+  "handoverDate": "2029-8",
+  "sections": {
+    "pdfs": {
+      "title": "ملفات PDF",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Eye/pdfs/Building-plan.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Eye/pdfs/Floor-plan.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Eye/pdfs/OSUS-Eye-C1.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Eye/pdfs/OSUS-Eye-Main-Brochure-Arabic.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Eye/pdfs/OSUS-Eye-Main-Brochure-English.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Eye/pdfs/Townhouse-OSUS-EYE-Residential-Brochure-Arabic.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Eye/pdfs/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9+%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1+%D8%A7%D9%84%D8%B4%D9%82%D9%82.pptx"
+      ]
+    },
+    "videos": {
+      "title": "الفيديوهات",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Eye/videos/full-video.mp4",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Eye/videos/makit.mp4"
+      ]
+    },
+    "images": {
+      "title": "الصور",
+      "items": []
+    },
+    "info": {
+      "title": "معلومات إضافية",
+      "items": []
+    },
+    "location": {
+      "title": "الموقع",
+      "items": [
+        "https://maps.app.goo.gl/R7xc5iqLoiGdvEkB8?g_st=ic"
+      ]
+    },
+    "prices": {
+      "title": "الأسعار",
+      "items": [
+      ]
+    }
+  }
+}

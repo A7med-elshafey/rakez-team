@@ -1,0 +1,40 @@
+{
+  "id": "osous-makan",
+  "name": "اسس المكان",
+  "category": { "key": "apartments", "label": "الشقق" },
+  "cover": "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Makan/cover/Cover.png",
+  "handoverDate": "2029-8",
+  "sections": {
+    "pdfs": {
+      "title": "ملفات PDF",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/apartments/OSUS+Makan/pdfs/OSUS-Makan-Allocation-Brochure.pdf"
+      ]
+    },
+    "videos": {
+      "title": "الفيديوهات",
+      "items": [
+
+      ]
+    },
+    "images": {
+      "title": "الصور",
+      "items": []
+    },
+    "info": {
+      "title": "معلومات إضافية",
+      "items": []
+    },
+    "location": {
+      "title": "الموقع",
+      "items": [
+        "https://maps.app.goo.gl/d3TaqfKABhSZvXpY8?g_st=ac"
+      ]
+    },
+    "prices": {
+      "title": "الأسعار",
+      "items": [
+      ]
+    }
+  }
+}

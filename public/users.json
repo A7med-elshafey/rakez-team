@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "username": "shafey",
+      "password": "1",
+      "fullName": "Elshafey",
+      "welcomeMessage": "صباحك فل، النهارده يومك. ورّيني إبداعك وحقق اللي إنت بتحلم بيه.",
+      "welcomeMedia": "https://rakez-team.s3.eu-north-1.amazonaws.com/welcome/Welcome-Rkez.jpeg"
+    },
+    {
+      "username": "hussain",
+      "password": "1010",
+      "fullName": "Halawany",
+      "welcomeMessage": "صباحك فل يا مدير، يوم كله إنجازات إن شاء الله.",
+      "welcomeMedia": "https://rakez-team.s3.eu-north-1.amazonaws.com/welcome/Welcome-Rkez.jpeg"
+    },
+    {
+      "username": "moamen",
+      "password": "101010",
+      "fullName": "moamen",
+      "welcomeMessage": "صباحك فل، ويومك كله نجاح وتوفيق إن شاء الله.",
+      "welcomeMedia": "https://rakez-team.s3.eu-north-1.amazonaws.com/welcome/Welcome-Rkez.jpeg"
+    },
+    {
+      "username": "saad",
+      "password": "102030",
+      "fullName": "Saad",
+      "welcomeMessage": "صباح الفل، ربنا يجعل يومك كله توفيق ونجاح.",
+      "welcomeMedia": "https://rakez-team.s3.eu-north-1.amazonaws.com/welcome/Welcome-Rkez.jpeg"
+    },
+    {
+      "username": "ahmed",
+      "password": "102030",
+      "fullName": "Ahmed",
+      "welcomeMessage": "صباحك فل، ويومك كله توفيق ونجاح إن شاء الله.",
+      "welcomeMedia": "https://rakez-team.s3.eu-north-1.amazonaws.com/welcome/Welcome-Rkez.jpeg"
+    },
+    {
+      "username": "soliman",
+      "password": "101010",
+      "fullName": "Soliman",
+      "welcomeMessage": "صباحك فل، ويومك كله إنجاز وتوفيق إن شاء الله.",
+      "welcomeMedia": "https://rakez-team.s3.eu-north-1.amazonaws.com/welcome/Welcome-Rkez.jpeg"
+    },
+    {
+      "username": "naief",
+      "password": "101010",
+      "fullName": "Naief",
+      "welcomeMessage": "صباح الفل، فالك التوفيق والنجاح إن شاء الله.",
+      "welcomeMedia": "https://rakez-team.s3.eu-north-1.amazonaws.com/welcome/Welcome-Rkez.jpeg"
+    },
+    {
+      "username": "saleh",
+      "password": "101010",
+      "fullName": "Saleh",
+      "welcomeMessage": "صباحك فل ورزق، ويومك كله توفيق ونجاح إن شاء الله.",
+      "welcomeMedia": "https://rakez-team.s3.eu-north-1.amazonaws.com/welcome/Welcome-Rkez.jpeg"
+    },
+    {
+      "username": "moustafa",
+      "password": "101010",
+      "fullName": "Moustafa",
+      "welcomeMessage": "صباحك فل يا أبو تووونس، وربنا يجعل يومك كله نجاح وتوفيق يارب.",
+      "welcomeMedia": "https://rakez-team.s3.eu-north-1.amazonaws.com/welcome/Welcome-Rkez.jpeg"
+    },
+    {
+      "username": "boss",
+      "password": "123456",
+      "fullName": "Big Boss"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "one",
+  "name": "ون",
+  "category": { "key": "villas", "label": "الفلل" },
+  "cover": "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/cover/cover.png",
+  "handoverDate": "2028-12",
+  "sections": {
+    "pdfs": {
+      "title": "ملفات PDF",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/pdfs/All-Project.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/pdfs/Company-Profile-EN.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/pdfs/ONE-Brochure.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/pdfs/Specifications-one.pdf"
+      ]
+    },
+    "videos": {
+      "title": "الفيديوهات",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/videos/about-developer.mp4",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/videos/Elite-villa-video.mp4",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/videos/marketing-video.mp4",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/videos/mountain-view-about.mp4",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/videos/project-marketing.mp4"
+      ]
+    },
+    "images": {
+      "title": "الصور",
+      "items": [
+       
+      ]
+    },
+    "info": {
+      "title": "معلومات إضافية",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/info/Info-one.pdf"
+      ]
+    },
+    "location": {
+      "title": "الموقع",
+      "items": [
+        "https://maps.app.goo.gl/dTyHjrQYnXJp57Dj6?g_st=ipc"
+
+      ]
+    },
+    "prices": {
+      "title": "الأسعار",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/One/Prices.jpeg"
+      ]
+    }
+  }
+}

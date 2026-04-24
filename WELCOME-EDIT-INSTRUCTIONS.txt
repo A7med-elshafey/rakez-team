@@ -1,0 +1,4 @@
+Default welcome image for all users is set in src/components/WelcomeOverlay.jsx
+Per-user custom messages can be added in public/users.json using the field: welcomeMessage
+Per-user custom media can be added optionally using the field: welcomeMedia
+Overlay duration is set to 10 seconds in src/auth/AuthProvider.jsx and src/components/WelcomeOverlay.jsx

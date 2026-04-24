@@ -1,0 +1,50 @@
+{
+  "id": "hayat",
+  "name": "حياة",
+  "category": { "key": "villas", "label": "الفلل" },
+  "cover": "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/Hayat/cover/Cover-Hayat.png",
+  "handoverDate": "2029-8",
+  "sections": {
+    "pdfs": {
+      "title": "ملفات PDF",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/Hayat/pdfs/All-projet-hayat.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/Hayat/pdfs/Hayat-Brochure-Digital.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/Hayat/pdfs/HAYAT-SALES-KIT.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/Hayat/pdfs/Specifications-Hyat.pdf"
+      ]
+    },
+    "videos": {
+      "title": "الفيديوهات",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/Hayat/videos/Developer-video.mp4",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/Hayat/videos/Previous-projects.mp4",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/Hayat/videos/Stand-alone-villa-video.mp4",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/villas/Hayat/videos/Town-house-video.mp4"
+      ]
+    },
+    "images": {
+      "title": "الصور",
+      "items": [
+       
+      ]
+    },
+    "info": {
+      "title": "معلومات إضافية",
+      "items": []
+    },
+    "location": {
+      "title": "الموقع",
+      "items": [
+        "https://maps.app.goo.gl/pB8rdsAkThA3TDnA7?g_st=ipc",
+         "https://al-forsan-production.up.railway.app/"
+      ]
+    },
+    "prices": {
+      "title": "الأسعار",
+      "items": [
+        "https://sakani.sa/app/offplan-projects/1694"
+      ]
+    }
+  }
+}

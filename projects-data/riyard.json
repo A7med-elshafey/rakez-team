@@ -1,0 +1,47 @@
+{
+  "id": "riyard",
+  "name": "ريارد",
+  "category": { "key": "towers", "label": "الابراج" },
+  "cover": "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/riyard/cover/Cover.png",
+  "handoverDate": "2029-8",
+  "sections": {
+    "pdfs": {
+      "title": "ملفات PDF",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/riyard/pdfs/All-Project-Building.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/riyard/pdfs/AX4-DRAWING.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/riyard/pdfs/Brochour-Riyard.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/riyard/pdfs/BX4-BY4-DRAWING.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/riyard/pdfs/MSAS-Rafen-Riyard-Profile-Residential.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/riyard/pdfs/Riyard-Explantion.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/riyard/pdfs/Units-typs.pdf"
+      ]
+    },
+    "videos": {
+      "title": "الفيديوهات",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/riyard/videos/Video.mp4"
+      ]
+    },
+    "images": {
+      "title": "الصور",
+      "items": []
+    },
+    "info": {
+      "title": "معلومات إضافية",
+      "items": []
+    },
+    "location": {
+      "title": "الموقع",
+      "items": [
+        "https://maps.app.goo.gl/qJLfqy4zdzUAArtt5?g_st=iwb"
+      ]
+    },
+    "prices": {
+      "title": "الأسعار",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/riyard/price/Prices.pdf"
+      ]
+    }
+  }
+}

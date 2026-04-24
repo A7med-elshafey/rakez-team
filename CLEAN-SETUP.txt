@@ -1,0 +1,20 @@
+نسخة نظيفة للمشروع:
+- لا تحتوي أي مشاريع قديمة.
+- المشروع الظاهر الوحيد في الداتا الحالية: الوفي (elevee).
+- مصدر الداتا مضبوط على:
+  https://rakez-team.s3.eu-north-1.amazonaws.com
+
+قبل التشغيل محليًا أو الرفع على Vercel:
+1) npm install
+2) npm run dev
+أو
+1) npm install
+2) npm run build
+
+متغير البيئة المستخدم فعليًا:
+VITE_PROJECTS_BASE_URL=https://rakez-team.s3.eu-north-1.amazonaws.com
+
+ملاحظات:
+- index.json يجب أن يكون في جذر البوكت.
+- ملفات المشاريع يجب أن تكون داخل projects-data/
+- CORS على S3 يجب أن يسمح لـ localhost و Vercel.

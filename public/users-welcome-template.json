@@ -1,0 +1,13 @@
+{
+  "example": {
+    "username": "example-user",
+    "fullName": "اسم الموظف",
+    "welcomeMessage": "رسالتك الخاصة لهذا المستخدم تظهر بعد تسجيل الدخول.",
+    "welcomeMedia": "https://rakez-team.s3.eu-north-1.amazonaws.com/welcome/Welcome-Rkez.jpeg"
+  },
+  "notes": [
+    "welcomeMessage اختياري",
+    "welcomeMedia اختياري ويمكن أن يكون رابطًا كاملاً أو مسارًا داخل البوكت",
+    "مثال لمسار داخل البوكت: Welcome/ahmed.mp4"
+  ]
+}

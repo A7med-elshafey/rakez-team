@@ -1,0 +1,8 @@
+.footer {
+  position: fixed; /* يثبت الفوتر أسفل الصفحة */
+  bottom: 10px;
+  left: 10px;
+  font-size: 0.85rem;
+  color: rgba(0, 0, 0, 0.6); /* خفيف وناعم */
+  pointer-events: none; /* مش بيتأثر بالكليك */
+}

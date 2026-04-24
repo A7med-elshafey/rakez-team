@@ -1,0 +1,43 @@
+{
+  "id": "elevee",
+  "name": "الوفي",
+  "category": { "key": "towers", "label": "الابراج" },
+  "cover": "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/elevee/cover/Cover.png",
+  "handoverDate": "2029-8",
+  "sections": {
+    "pdfs": {
+      "title": "ملفات PDF",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/elevee/pdfs/brochure.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/elevee/pdfs/floors.pdf",
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/elevee/pdfs/unit-typs.pdf"
+      ]
+    },
+    "videos": {
+      "title": "الفيديوهات",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/elevee/videos/project-video.mp4"
+      ]
+    },
+    "images": {
+      "title": "الصور",
+      "items": []
+    },
+    "info": {
+      "title": "معلومات إضافية",
+      "items": []
+    },
+    "location": {
+      "title": "الموقع",
+      "items": [
+        "https://maps.app.goo.gl/Y6mE8xHMHXnvYUDG6?g_st=ic"
+      ]
+    },
+    "prices": {
+      "title": "الأسعار",
+      "items": [
+        "https://rakez-team.s3.eu-north-1.amazonaws.com/towers/elevee/Rakez-units/Rakez-units.xlsx"
+      ]
+    }
+  }
+}

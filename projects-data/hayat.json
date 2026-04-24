@@ -33,13 +33,19 @@
       "title": "معلومات إضافية",
       "items": []
     },
-    "location": {
-      "title": "الموقع",
-      "items": [
-        "https://maps.app.goo.gl/pB8rdsAkThA3TDnA7?g_st=ipc",
-         "https://al-forsan-production.up.railway.app/"
-      ]
+  "location": {
+  "title": "الموقع",
+  "items": [
+    {
+      "label": "الموقع",
+      "url": "https://maps.app.goo.gl/pB8rdsAkThA3TDnA7?g_st=ipc"
     },
+    {
+      "label": "3D Project",
+      "url": "https://al-forsan-production.up.railway.app/"
+    }
+  ]
+},
     "prices": {
       "title": "الأسعار",
       "items": [
